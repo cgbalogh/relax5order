@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2017-10-20T08:43:27Z" product-name="relax5order">
+		<header/>
+		<body>
+			<trans-unit id="package.description">
+				<source>Package</source>
+			</trans-unit>
+			<trans-unit id="pieces.description">
+				<source>Pieces</source>
+			</trans-unit>
+			<trans-unit id="pieces_total.description">
+				<source>Pieces Total</source>
+			</trans-unit>
+			<trans-unit id="amount.description">
+				<source>Amount</source>
+			</trans-unit>
+			<trans-unit id="price_per_item.description">
+				<source>Price Per Item</source>
+			</trans-unit>
+			<trans-unit id="price_total.description">
+				<source>PriceTotal</source>
+			</trans-unit>
+			<trans-unit id="status.description">
+				<source>Status</source>
+			</trans-unit>
+			<trans-unit id="tax_percent_per_item.description">
+				<source>Tax Percent Per Item</source>
+			</trans-unit>
+			<trans-unit id="tax_per_item.description">
+				<source>Tax Per Item</source>
+			</trans-unit>
+			<trans-unit id="item.description">
+				<source>Item</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
